@@ -10,7 +10,7 @@ MQ全称 Message Queue（**消息队列**），是在消息的传输过程中**�
 
 ---
 
-![image-20220601205424336](http://fgcy-pic.zhamao.ml/image-20220601205424336.png)
+![image-20220601205424336](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220601205424336.png)
 
 ---
 
@@ -22,7 +22,7 @@ MQ全称 Message Queue（**消息队列**），是在消息的传输过程中**�
 
 ---
 
-![image-20220601205557504](http://fgcy-pic.zhamao.ml/image-20220601205557504.png)
+![image-20220601205557504](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220601205557504.png)
 
 ---
 
@@ -50,7 +50,7 @@ MQ全称 Message Queue（**消息队列**），是在消息的传输过程中**�
 
 ---
 
-![image-20220601210109976](http://fgcy-pic.zhamao.ml/image-20220601210109976.png)
+![image-20220601210109976](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220601210109976.png)
 
 ---
 
@@ -72,7 +72,7 @@ MQ全称 Message Queue（**消息队列**），是在消息的传输过程中**�
 
 ---
 
-![image-20220601210857112](http://fgcy-pic.zhamao.ml/image-20220601210857112.png)
+![image-20220601210857112](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220601210857112.png)
 
 ---
 
@@ -92,7 +92,7 @@ MQ全称 Message Queue（**消息队列**），是在消息的传输过程中**�
 
 ---
 
-![image-20220601212017595](http://fgcy-pic.zhamao.ml/image-20220601212017595.png)
+![image-20220601212017595](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220601212017595.png)
 
 ---
 
@@ -107,7 +107,7 @@ MQ全称 Message Queue（**消息队列**），是在消息的传输过程中**�
 
 ---
 
-![image-20220601212201794](http://fgcy-pic.zhamao.ml/image-20220601212201794.png)
+![image-20220601212201794](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220601212201794.png)
 
 ---
 
@@ -120,7 +120,7 @@ MQ全称 Message Queue（**消息队列**），是在消息的传输过程中**�
 
 ---
 
-![image-20220601212538913](http://fgcy-pic.zhamao.ml/image-20220601212538913.png)
+![image-20220601212538913](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220601212538913.png)
 
 ---
 
@@ -134,7 +134,7 @@ A系统每秒只能处理1000个请求，当每秒请求5000次，A系统就会�
 
 ---
 
-![image-20220601213049196](http://fgcy-pic.zhamao.ml/image-20220601213049196.png)
+![image-20220601213049196](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220601213049196.png)
 
 ---
 
@@ -144,7 +144,7 @@ A系统每秒只能处理1000个请求，当每秒请求5000次，A系统就会�
 
 ---
 
-![image-20220601213340602](http://fgcy-pic.zhamao.ml/image-20220601213340602.png)
+![image-20220601213340602](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220601213340602.png)
 
 ---
 
@@ -168,7 +168,7 @@ A系统每秒只能处理1000个请求，当每秒请求5000次，A系统就会�
 
 ---
 
-![image-20220601215030222](http://fgcy-pic.zhamao.ml/image-20220601215030222.png)
+![image-20220601215030222](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220601215030222.png)
 
 ---
 
@@ -234,7 +234,7 @@ A 系统处理完业务，通过 MQ 给B、C、D三个系统发消息数据，�
 
 ---
 
-![image-20220601220103030](http://fgcy-pic.zhamao.ml/image-20220601220103030.png)
+![image-20220601220103030](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220601220103030.png)
 
 ---
 
@@ -258,7 +258,7 @@ AMQP，即 Advanced Message Queuing Protocol（高级消息队列协议），是
 
 ---
 
-![image-20220601221126734](http://fgcy-pic.zhamao.ml/image-20220601221126734.png)
+![image-20220601221126734](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220601221126734.png)
 
 ---
 
@@ -272,7 +272,7 @@ AMQP，即 Advanced Message Queuing Protocol（高级消息队列协议），是
 
 ---
 
-![image-20220601221251700](http://fgcy-pic.zhamao.ml/image-20220601221251700.png)
+![image-20220601221251700](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220601221251700.png)
 
 ---
 
@@ -341,7 +341,7 @@ RPC 远程调用模式（远程调用，不太算 MQ；暂不作介绍）。
 
 ---
 
-![image-20220601221737765](http://fgcy-pic.zhamao.ml/image-20220601221737765.png)
+![image-20220601221737765](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220601221737765.png)
 
 ---
 
@@ -407,7 +407,7 @@ rpm -ivh erlang-18.3-1.el7.centos.x86_64.rpm
 
 ---
 
-![1565526174751](http://fgcy-pic.zhamao.ml/1565526174751.png)
+![1565526174751](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/1565526174751.png)
 
 ---
 
@@ -421,7 +421,7 @@ strings /lib64/libc.so.6 | grep GLIBC
 
 ---
 
-![1565526264426](http://fgcy-pic.zhamao.ml/1565526264426.png)
+![1565526264426](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/1565526264426.png)
 
 ---
 
@@ -463,7 +463,7 @@ strings /lib64/libc.so.6 | grep GLIBC
 
   ---
 
-  ![1565528746057](http://fgcy-pic.zhamao.ml/1565528746057.png)
+  ![1565528746057](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/1565528746057.png)
 
   ---
 
@@ -534,7 +534,7 @@ RabbitMQ在安装好后，可以访问`http://ip地址:15672` ；其自带了gue
 
 ---
 
-![1565098043833](http://fgcy-pic.zhamao.ml/1565098043833.png)
+![1565098043833](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/1565098043833.png)
 
 ---
 
@@ -544,7 +544,7 @@ RabbitMQ在安装好后，可以访问`http://ip地址:15672` ；其自带了gue
 
 ---
 
-![1565098315375](http://fgcy-pic.zhamao.ml/1565098315375.png)
+![1565098315375](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/1565098315375.png)
 
 ---
 
@@ -588,7 +588,7 @@ RabbitMQ在安装好后，可以访问`http://ip地址:15672` ；其自带了gue
 
 ---
 
-![1565098496482](http://fgcy-pic.zhamao.ml/1565098496482.png)
+![1565098496482](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/1565098496482.png)
 
 ---
 
@@ -602,7 +602,7 @@ RabbitMQ在安装好后，可以访问`http://ip地址:15672` ；其自带了gue
 
 ---
 
-![1565098585317](http://fgcy-pic.zhamao.ml/1565098585317.png)
+![1565098585317](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/1565098585317.png)
 
 ---
 
@@ -612,7 +612,7 @@ RabbitMQ在安装好后，可以访问`http://ip地址:15672` ；其自带了gue
 
 ---
 
-![1565098719054](http://fgcy-pic.zhamao.ml/1565098719054.png)
+![1565098719054](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/1565098719054.png)
 
 ---
 
@@ -624,7 +624,7 @@ RabbitMQ在安装好后，可以访问`http://ip地址:15672` ；其自带了gue
 
 ----
 
-![image-20220602095533350](http://fgcy-pic.zhamao.ml/image-20220602095533350.png)
+![image-20220602095533350](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220602095533350.png)
 
 ---
 
@@ -642,7 +642,7 @@ RabbitMQ在安装好后，可以访问`http://ip地址:15672` ；其自带了gue
 
 ---
 
-![image-20220602125151365](http://fgcy-pic.zhamao.ml/image-20220602125151365.png)
+![image-20220602125151365](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220602125151365.png)
 
 ---
 
@@ -908,7 +908,7 @@ public class HelloWorld {
 
 ---
 
-![image-20220602125406620](http://fgcy-pic.zhamao.ml/image-20220602125406620.png)
+![image-20220602125406620](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220602125406620.png)
 
 ---
 
@@ -1191,7 +1191,7 @@ Work queues 工作队列模式
 
 ---
 
-![image-20220602134441648](http://fgcy-pic.zhamao.ml/image-20220602134441648.png)
+![image-20220602134441648](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220602134441648.png)
 
 ---
 
@@ -1304,13 +1304,13 @@ public class Producter_PubSub {
 
 ---
 
-![image-20220602135218887](http://fgcy-pic.zhamao.ml/image-20220602135218887.png)
+![image-20220602135218887](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220602135218887.png)
 
 ---
 
 
 
-![image-20220602135344142](http://fgcy-pic.zhamao.ml/image-20220602135344142.png)
+![image-20220602135344142](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220602135344142.png)
 
 ---
 
@@ -1395,7 +1395,7 @@ body:日志信息：张三调用了findAll方法 日志级别：info。。。
 
 ---
 
-![image-20220602153907378](http://fgcy-pic.zhamao.ml/image-20220602153907378.png)
+![image-20220602153907378](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220602153907378.png)
 
 ---
 
@@ -1480,7 +1480,7 @@ body:日志信息：张三调用了findAll方法 日志级别：info。。。
 
 ---
 
-![image-20220602140529133](http://fgcy-pic.zhamao.ml/image-20220602140529133.png)
+![image-20220602140529133](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220602140529133.png)
 
 ---
 
@@ -1500,7 +1500,7 @@ Exchange 不再把消息交给每一个绑定的队列，而是根据消息的 R
 
 ---
 
-![image-20220816203440005](http://fgcy-pic.zhamao.ml/image-20220816203440005.png)
+![image-20220816203440005](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220816203440005.png)
 
 ---
 
@@ -1625,7 +1625,7 @@ public class Producter_Routing {
 
 ---
 
-![image-20220602153611924](http://fgcy-pic.zhamao.ml/image-20220602153611924.png)
+![image-20220602153611924](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220602153611924.png)
 
 ---
 
@@ -1813,7 +1813,7 @@ Topic 类型与 Direct 相比，都是可以根据 RoutingKey 把消息路由到
 
 ---
 
-![image-20220602160525695](http://fgcy-pic.zhamao.ml/image-20220602160525695.png)
+![image-20220602160525695](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220602160525695.png)
 
 ---
 
@@ -1823,7 +1823,7 @@ Topic 类型与 Direct 相比，都是可以根据 RoutingKey 把消息路由到
 
 ---
 
-![image-20220602160539958](http://fgcy-pic.zhamao.ml/image-20220602160539958.png)
+![image-20220602160539958](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220602160539958.png)
 
 ---
 
@@ -1942,7 +1942,7 @@ public class Producter_Topics {
 
 ---
 
-![image-20220603225420927](http://fgcy-pic.zhamao.ml/image-20220603225420927.png)
+![image-20220603225420927](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220603225420927.png)
 
 ---
 
@@ -2356,7 +2356,7 @@ public class ConsumerTest {
 
 ---
 
-![image-20220603234138789](http://fgcy-pic.zhamao.ml/image-20220603234138789.png)
+![image-20220603234138789](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220603234138789.png)
 
 ---
 
@@ -2368,7 +2368,7 @@ public class ConsumerTest {
 
 ---
 
-![image-20220603234253580](http://fgcy-pic.zhamao.ml/image-20220603234253580.png)
+![image-20220603234253580](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220603234253580.png)
 
 ---
 
@@ -2382,11 +2382,11 @@ public class ConsumerTest {
 
 ---
 
-![image-20220603234345492](http://fgcy-pic.zhamao.ml/image-20220603234345492.png)
+![image-20220603234345492](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220603234345492.png)
 
 ---
 
-![image-20220603234416980](http://fgcy-pic.zhamao.ml/image-20220603234416980.png)
+![image-20220603234416980](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220603234416980.png)
 
 ---
 
@@ -2394,11 +2394,11 @@ public class ConsumerTest {
 
 ---
 
-![image-20220603234552652](http://fgcy-pic.zhamao.ml/image-20220603234552652.png)
+![image-20220603234552652](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220603234552652.png)
 
 ---
 
-![image-20220816203349065](http://fgcy-pic.zhamao.ml/image-20220816203349065.png)
+![image-20220816203349065](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220816203349065.png)
 
 ---
 
@@ -2419,7 +2419,7 @@ public class ConsumerTest {
 
 ---
 
-![image-20220603235201322](http://fgcy-pic.zhamao.ml/image-20220603235201322.png)
+![image-20220603235201322](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220603235201322.png)
 
 ---
 
@@ -2446,7 +2446,7 @@ public class ConsumerTest {
 
 ---
 
-![image-20220603235505964](http://fgcy-pic.zhamao.ml/image-20220603235505964.png)
+![image-20220603235505964](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220603235505964.png)
 
 ---
 
@@ -2469,7 +2469,7 @@ public class ConsumerTest {
 
 ---
 
-![image-20220604000601469](http://fgcy-pic.zhamao.ml/image-20220604000601469.png)
+![image-20220604000601469](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220604000601469.png)
 
 ---
 
@@ -2650,7 +2650,7 @@ public class Directqueue1 implements MessageListener {
 
 ---
 
-![image-20220604002847182](http://fgcy-pic.zhamao.ml/image-20220604002847182.png)
+![image-20220604002847182](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220604002847182.png)
 
 ---
 
@@ -2762,7 +2762,7 @@ public class ConsumerTest {
 
 ---
 
-![image-20220816000751302](http://fgcy-pic.zhamao.ml/image-20220816000751302.png)
+![image-20220816000751302](https://cdn.jsdelivr.net/gh/fgcy-333/gitnote-images/image-20220816000751302.png)
 
 ---
 
